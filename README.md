@@ -6,6 +6,5 @@ Este repositorio incluye los archivos que utilicé durante la cursada de la mate
 Hay guías resueltas, más que nada de la parte estadística de la materia.
 
 También están los parciales resueltos.  
-[Primer Parcial](https://github.com/pedrofuentes79/Probabilidad-y-Estadistica-C-UBA/Primer-parcial-probabilidad.pdf)  
-[Segundo Parcial](https://github.com/pedrofuentes79/Probabilidad-y-Estadistica-C-UBA/Segundo-parcial-probabilidad.pdf)
-  
+- [Primer Parcial](https://github.com/pedrofuentes79/Probabilidad-y-Estadistica-C-UBA/blob/master/Primer-parcial-probabilidad.pdf)  
+- [Segundo Parcial](https://github.com/pedrofuentes79/Probabilidad-y-Estadistica-C-UBA/blob/master/Segundo-parcial-probabilidad.pdf)
